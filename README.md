@@ -9,6 +9,11 @@ It is useful when you want to choose a hex color code from an image instantly.
 * OpenCV
 * Numpy
 * Pyperclip
+<<<<<<< HEAD
+* Tkinter
+* Pillow
+=======
+>>>>>>> e588fd2393a1409b343b36f1f9eb4a3e6f132ab9
 * A working PC
 
 
